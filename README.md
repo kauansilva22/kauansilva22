@@ -1,4 +1,4 @@
-# Hi 👋, I'm kauan silva 
+<img src="https://media.giphy.com/media/qb1eHxhUHLdsc/giphy.gif" width="300" align="right" /># Hi 👋, I'm kauan silva 
 
 ### 💡 Estudante de Manufatura Digital @ SENAI  🛠️ Automação | Programação | Inovação Industrial  🚀 Em constante aprendizagem
 
