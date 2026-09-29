@@ -8,8 +8,6 @@
 
 - 👯 I'm looking to collaborate on **projetos de codigo**
 
-- 🤝 I'm looking for help with **modelagem**
-
 - 💬 Ask me about **desenvolvemento web**
 
 - 📫 How to reach me **kauan.amado@edu.senai.br**
